@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Journal Club
-permalink: /eft/
+permalink: /jc/
 ---
 
 This is the website for the UCLA Amplitudes Journal Club.
