@@ -4,7 +4,7 @@ title: Journal Club
 permalink: /jc/
 ---
 
-This is the website for the UCLA Amplitudes Journal Club.
+This is the website for the joint UCLA & Caltech Amplitudes Journal Club.
 
 Organizers: [Chia-Hsien](mailto:chshen@physics.ucla.edu) and [Andres](mailto:dkosmopoulos@physics.ucla.edu). 
 
