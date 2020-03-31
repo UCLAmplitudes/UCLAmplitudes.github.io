@@ -26,10 +26,10 @@ We will meet Thursdays at 10:30 PM in the Schwinger Lounge (PAB 4-740) or on [Li
 | 01/30 | Eric Sawyer           | Loops and trees in generic EFTs                   | [2001.00017]                            | 
 | 02/06 | Chia-Hsien Shen       | Intro to Intersection Theory                      | [1901.11510]                            | 
 | 02/13 | Julio Parra-Martinez  | Intro to Intersection Theory II                   | [1810.03818], [1910.08514]              | 
-| 02/20 | Sebastian Mizera      | Kinematic Jacobi Identity is a Residue Theorem    | [1912.03397]                            | 
+| 02/20 | Sebastian Mizera      | Special Seminar                                   | [1912.03397]                            | 
 | 02/27 | Enrico Herrmann       | Conformal Regge Theory                            | [1909.05177], [1805.00098], [1209.4355] | 
 | 03/05 | Dimitrios Kosmopoulos | ~~Causality, Shockwaves, etc~~ Postponed          | [1407.5597], [1904.05905], [1905.01311] | 
-| 03/12 | Zvi Bern              | Regge Limit of 2-loop 5-point Amplitude in N=4    | [2003.03120]                            | 
+| 03/12 | Zvi Bern              | Regge Limit of a 2-loop 5-point Amplitude         | [2003.03120]                            | 
 
 [2001.00017]: https://arxiv.org/abs/2001.00017
 [1901.11510]: https://arxiv.org/abs/1901.11510
