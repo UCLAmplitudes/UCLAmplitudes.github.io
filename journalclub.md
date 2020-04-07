@@ -18,7 +18,7 @@ We will meet Thursdays at 10:30 PM on Zoom.
 | 04/07 | Dimitrios Kosmopoulos        | Causality, Shockwaves, etc                        | [1407.5597], [1904.05905], [1905.01311] | 
 | 04/14 | James F. St. Germaine-Fuller |                                                   |                                         | 
 | 04/21 | Andres Luna                  |                                                   |                                         | 
-| 04/27 | Thibaut Damour               | Special Seminar                                   |                                         | 
+| 04/27 | Thibault Damour              | Special Seminar                                   |                                         | 
 
 ### Winter 2020 Schedule ###
 
