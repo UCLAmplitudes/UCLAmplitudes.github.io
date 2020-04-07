@@ -15,7 +15,7 @@ We will meet Thursdays at 10:30 PM on Zoom.
 
 | Date  | Speaker                      | Topic                                             | Readings                                |  
 |-------|------------------------------|---------------------------------------------------|-----------------------------------------|
-| 04/07 | Dimitrios Kosmopoulos        | Causality, Shockwaves, etc                        | [1407.5597], [1904.05905], [1905.01311] | 
+| 04/07 | Dimitrios Kosmopoulos        | [Causality, Shockwaves, etc]                      | [1407.5597], [1904.05905], [1905.01311] | 
 | 04/14 | James F. St. Germaine-Fuller |                                                   |                                         | 
 | 04/21 | Andres Luna                  |                                                   |                                         | 
 | 04/27 | Thibault Damour              | Special Seminar                                   |                                         | 
@@ -46,3 +46,5 @@ We will meet Thursdays at 10:30 PM in the Schwinger Lounge (PAB 4-740) or on [Li
 [1904.05905]: https://arxiv.org/abs/1904.05905
 [1905.01311]: https://arxiv.org/abs/1905.01311
 [2003.03120]: https://arxiv.org/abs/2003.03120
+
+[Causality, Shockwaves, etc]: ../notes/04-07-20.pdf
