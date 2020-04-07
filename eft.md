@@ -11,7 +11,7 @@ Organizers: [Chia-Hsien](mailto:chshen@physics.ucla.edu), [Dimitrios](mailto:dko
 
 ### Spring 2020 Schedule ###
 
-We will meet Wednesdays at 12:30 PM on Zoom (<https://ucla.zoom.us/j/838638542>)
+We will meet Wednesdays at 12:30 PM on Zoom.
 
 | Date  | Speaker               | Topic                                             |
 |-------|-----------------------|---------------------------------------------------|
