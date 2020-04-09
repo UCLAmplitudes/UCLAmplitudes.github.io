@@ -20,6 +20,9 @@ We will meet Thursdays at 10:30 PM on Zoom.
 | 04/21 | Andres Luna                  |                                                   |                                         | 
 | 04/27 | Thibault Damour              | Special Seminar                                   |                                         | 
 
+[Causality, Shockwaves, etc]: ../notes/04-07-20.pdf
+
+
 ### Winter 2020 Schedule ###
 
 We will meet Thursdays at 10:30 PM in the Schwinger Lounge (PAB 4-740) or on [LifeSize](https://call.lifesizecloud.com/606225). 
@@ -47,4 +50,3 @@ We will meet Thursdays at 10:30 PM in the Schwinger Lounge (PAB 4-740) or on [Li
 [1905.01311]: https://arxiv.org/abs/1905.01311
 [2003.03120]: https://arxiv.org/abs/2003.03120
 
-[Causality, Shockwaves, etc]: ../notes/04-07-20.pdf

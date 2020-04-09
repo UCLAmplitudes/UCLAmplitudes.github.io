@@ -16,7 +16,7 @@ We will meet Wednesdays at 12:30 PM on Zoom.
 | Date  | Speaker               | Topic                                             |
 |-------|-----------------------|---------------------------------------------------|
 | 04/01 | Chia-Hsien Shen       | HQET                                              |
-| 04/08 | Eric Sawyer           | HQET Power Corrections                            |
+| 04/08 | Eric Sawyer           | [HQET Power Corrections]                          |
 | 04/15 |                       | Renormalons                                       |
 | 04/22 |                       | EFT with a Fine Tuning                            |
 | 04/29 |                       | Renormalons                                       |
@@ -25,6 +25,7 @@ We will meet Wednesdays at 12:30 PM on Zoom.
 | 05/20 |                       | SCET2                                             |
 | 05/27 |                       | NRQCD                                             |
 
+[HQET Power Corrections]: ../notes/EFT_4_8_20_hw.pdf 
 
 ### Winter 2020 Schedule ###
 
