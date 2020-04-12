@@ -5,3 +5,10 @@
 layout: page
 ---
 
+![Diagrams](assets/dotsandbubbles.png){:height="100%" width="100%"}
+
+
+![Diagrams](assets/dotsandbubbles2.png){:height="100%" width="100%"}
+
+
+![Diagrams](assets/dotsandbubbles3.png){:height="100%" width="100%"}
