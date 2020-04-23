@@ -19,7 +19,7 @@ We will meet Wednesdays at 12:30 PM on Zoom.
 | 04/08 | Eric Sawyer               | [HQET Power Corrections]                          |
 | 04/15 | Julio P-M and Dimitrios K | Renormalons                                       |
 | 04/22 | Dimitrios Kosmopoulos     | SCET (1)                                          |
-| 04/29 |                           | SCET (2)                                          |
+| 04/29 | Trevor Scheopner          | SCET (2)                                          |
 | 05/06 | Julio Parra-Martinez      | Symmetries and Factorizaton in SCET               |
 | 05/13 |                           | Resummation of Logs in SCET.                      |
 | 05/20 |                           | SCET2                                             |
